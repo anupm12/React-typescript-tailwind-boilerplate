@@ -1,1 +1,0 @@
-# React-typescript-tailwind-boilerplate
